@@ -29,6 +29,7 @@ html,body{
 }
 .Child3{
     background-color: blueviolet;
+    border: 2px solid white;
     height: 300px;
     width: 300px;
 }
